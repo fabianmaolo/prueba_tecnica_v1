@@ -1,0 +1,16 @@
+id_producto,nombre_producto,categoria,cantidad_disponible
+1,"Cajas de Cartón",Embalaje,500
+2,"Palets de Madera",Transporte,200
+3,"Cintas Adhesivas",Embalaje,300
+4,"Bolsa Plástica",Empaque,1000
+5,"Plástico Burbuja",Embalaje,600
+6,"Film Stretch",Embalaje,350
+7,"Flejes Plásticos",Transporte,150
+8,"Zuncho Metálico",Transporte,180
+9,"Guantes Industriales",Seguridad,220
+10,"Casco de Seguridad",Seguridad,95
+11,"Lámparas LED",Iluminación,50
+12,"Estanterías Metálicas",Almacenamiento,75
+13,"Cajas Organizadoras",Almacenamiento,250
+14,"Etiquetas Adhesivas",Identificación,400
+15,"Códigos QR",Identificación,500

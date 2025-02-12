@@ -1,0 +1,16 @@
+id_movimiento,id_producto,tipo_movimiento,cantidad
+1,1,Entrada,100
+2,2,Salida,50
+3,3,Entrada,200
+4,4,Salida,300
+5,5,Entrada,120
+6,6,Salida,60
+7,7,Entrada,140
+8,8,Salida,90
+9,9,Entrada,180
+10,10,Salida,45
+11,11,Entrada,30
+12,12,Salida,70
+13,13,Entrada,160
+14,14,Salida,100
+15,15,Entrada,190
