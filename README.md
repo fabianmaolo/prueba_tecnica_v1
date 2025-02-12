@@ -1,2 +1,2 @@
-# prueba_t-cnica_v1
+# prueba_tecnica_v1
 Prueba Roldan Logistics
